@@ -1,0 +1,35 @@
+/*global*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: lucida; 
+    ;
+}
+
+p{
+    line-height: 2;
+}
+
+img{
+    max-width: 100%;
+}
+
+/*header*/
+header{
+    background-color: gray;
+    background-image: url(/img/header.jpg);
+    height: 250px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+/*footer*/
+footer{
+    background-color: gray;
+    height: 150px;
+    color: white;
+    text-align: center;
+}
